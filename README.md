@@ -1,2 +1,3 @@
 # Prodex_Task_2_Solar_Panel_Adjustor
-IOT Task 2 for a Solar Panel Adjustor.
+Tinkercad Simulation Link:
+https://www.tinkercad.com/things/evKTLWGvT3A-solar-panel-adjustor?sharecode=nUwBetVq93OfUrITvLtxcB28-KCc4MUL4ANwMDYE5s4
